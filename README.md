@@ -1,1 +1,1 @@
-# opengl-fancy-trees
+# OpenGL Fancy Trees
